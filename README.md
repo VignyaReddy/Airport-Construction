@@ -1,1 +1,3 @@
-# Airport-Construction
+                                               # Airport-Construction
+Description:
+       The  Island of Piconesia is considered as a future location.But the only problem regarding the island is that it is hard to reach to there.The fastest way to reach island currently takes three days from the nearest airport, and uses a kayak,oil tanker.To make attending the island easier,Piconesia is planning to build its airport.For this we neeed to build the longest landing strip on the island.To determine this, we need to consider the view of the Piconesia island as a polygon and compute the length of the longest possible strip on the island.
